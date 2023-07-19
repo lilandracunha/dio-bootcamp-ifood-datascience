@@ -1,18 +1,4 @@
-# Sistema Bancário - v2.0.0
-"""def menu():
-  menu_bancario = '''
-  ----------------------------- MENU -----------------------------
-      [1] Cadastrar novo usuário OK
-      [2] Criar uma nova conta OK
-      [3] Consultar contas OK
-      [4] Efetuar depósito OK
-      [5] Realizar saque
-      [6] Consultar extrato
-      [7] Sair
-      [0] Excluir uma conta
-  ----------------------------------------------------------------'''
-  # return opcao = int(input("Selecione o número referente a ação que deseja executar: "))"""
-
+# Sistema Bancário - v2.0.1
 def cadastrar_usuario(usuarios):
   cpf = input("Para começar, informe o CPF para cadastro (somente números): ")
   usuario = consultar_cliente(cpf, usuarios)
