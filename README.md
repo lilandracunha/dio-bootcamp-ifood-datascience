@@ -22,3 +22,4 @@ Maiores informações sobre o bootcamp podem ser visualizadas a seguir:
 | :---------- | :--------- | :------------------------------------------ |
 | Criando um Sistema Bancário com Python | Desafio de projeto | <a href = "https://github.com/lilandracunha/dio-bootcamp-ifood/blob/main/python/desafio_sistema_bancario_v1.py">desafio_sistema_bancario_v1</a> |
 | Otimizando o Sistema Bancário com Funções Python | Desafio de projeto | <a href = "https://github.com/lilandracunha/dio-bootcamp-ifood/blob/main/python/desafio_sistema_bancario_v2.py">desafio_sistema_bancario_v2</a> |
+| Construindo seu Primeiro Projeto Lógico de Banco de Dados | Desafio de projeto | <a href = https://github.com/lilandracunha/dio-bootcamp-ifood/blob/main/sql/ecommerce_v1.sql>ecommerce_v1.sql</a> |
