@@ -1,4 +1,4 @@
-### Modelagem de Dados e Projetos Lógicos na Prática com SQL
+## Modelagem de Dados e Projetos Lógicos na Prática com SQL
 
 <br>
 <p align = "justify"><b>Descrição do repositório:</b> O módulo Modelagem de Dados e Projetos Lógicos na Prática com SQL integra o bootcamp Potência Tech powered by iFood, disponibilizado através da plataforma Digital Innovation One (DIO).
