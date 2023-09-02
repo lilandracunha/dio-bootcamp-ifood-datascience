@@ -4,6 +4,7 @@
 CREATE DATABASE IF NOT EXISTS oficina_v1;
 USE oficina_v1;
 
+-- Criação das tabelas
 CREATE TABLE cliente(
 	idCliente INT NOT NULL AUTO_INCREMENT,
     nomeCompleto VARCHAR(200) NOT NULL,
