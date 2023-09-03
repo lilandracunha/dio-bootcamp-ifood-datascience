@@ -22,4 +22,10 @@ Maiores informações sobre o bootcamp podem ser visualizadas a seguir:
 | :---------- | :--------- | :------------------------------------------ |
 | Criando um Sistema Bancário com Python | Desafio de projeto | <a href = "https://github.com/lilandracunha/dio-bootcamp-ifood/blob/main/python/desafio_sistema_bancario_v1.py">desafio_sistema_bancario_v1</a> |
 | Otimizando o Sistema Bancário com Funções Python | Desafio de projeto | <a href = "https://github.com/lilandracunha/dio-bootcamp-ifood/blob/main/python/desafio_sistema_bancario_v2.py">desafio_sistema_bancario_v2</a> |
-| Construindo seu Primeiro Projeto Lógico de Banco de Dados | Desafio de projeto | <a href = https://github.com/lilandracunha/dio-bootcamp-ifood/blob/main/sql/ecommerce_v1.sql>ecommerce_v1.sql</a> |
+| Tempo Estimado de Entrega | Desafio de código | <a href = "https://github.com/lilandracunha/dio-bootcamp-ifood/blob/main/python/desafioCodigo1_tempo_entrega.py">desafioCodigo1_tempo_entrega.py</a> |
+| Calcular o Preço Final de um Pedido | Desafio de código | <a href = "https://github.com/lilandracunha/dio-bootcamp-ifood/blob/main/python/desafioCodigo2_preco_final.py">desafioCodigo2_preco_final.py</a> |
+| Ganhe uma Sobremesa Especial! | Desafio de código | <a href = "https://github.com/lilandracunha/dio-bootcamp-ifood/blob/main/python/desafioCodigo3_sobremesa_especial.py">desafioCodigo3_sobremesa_especial.py</a> |
+| Gerenciamento de Pedidos de Comida Online | Desafio de código | <a href = "https://github.com/lilandracunha/dio-bootcamp-ifood/blob/main/python/desafioCodigo4_gerenciamento_pedidos.py">desafioCodigo4_gerenciamento_pedidos.py</a> |
+| Identificando Pedidos Veganos | Desafio de código | <a href = "https://github.com/lilandracunha/dio-bootcamp-ifood/blob/main/python/desafioCodigo5_pedidos_veganos.py">desafioCodigo5_pedidos_veganos.py</a> |
+| Construindo seu Primeiro Projeto Lógico de Banco de Dados | Desafio de projeto | <a href = "https://github.com/lilandracunha/dio-bootcamp-ifood/blob/main/sql/ecommerce_v1.sql">ecommerce_v1.sql</a> |
+| Construa um Projeto Lógico de Banco de Dados do Zero | Desafio de projeto | <a href = "https://github.com/lilandracunha/dio-bootcamp-ifood/blob/main/sql/oficina_v1.sql">oficina_v1.sql</a> |
