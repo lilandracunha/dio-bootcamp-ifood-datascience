@@ -20,8 +20,8 @@ Maiores informações sobre o bootcamp podem ser visualizadas a seguir:
 
 | Título do Projeto | Tipo | Arquivo |
 | :---------- | :--------- | :------------------------------------------ |
-| Criando um Sistema Bancário com Python | Desafio de projeto | <a href = "https://github.com/lilandracunha/dio-bootcamp-ifood/blob/main/python/desafio_sistema_bancario_v1.py">desafio_sistema_bancario_v1</a> |
-| Otimizando o Sistema Bancário com Funções Python | Desafio de projeto | <a href = "https://github.com/lilandracunha/dio-bootcamp-ifood/blob/main/python/desafio_sistema_bancario_v2.py">desafio_sistema_bancario_v2</a> |
+| Criando um Sistema Bancário com Python | Desafio de projeto | <a href = "https://github.com/lilandracunha/dio-bootcamp-ifood/blob/main/python/desafio_sistema_bancario_v1.py">desafio_sistema_bancario_v1.py</a> |
+| Otimizando o Sistema Bancário com Funções Python | Desafio de projeto | <a href = "https://github.com/lilandracunha/dio-bootcamp-ifood/blob/main/python/desafio_sistema_bancario_v2.py">desafio_sistema_bancario_v2.py</a> |
 | Tempo Estimado de Entrega | Desafio de código | <a href = "https://github.com/lilandracunha/dio-bootcamp-ifood/blob/main/python/desafioCodigo1_tempo_entrega.py">desafioCodigo1_tempo_entrega.py</a> |
 | Calcular o Preço Final de um Pedido | Desafio de código | <a href = "https://github.com/lilandracunha/dio-bootcamp-ifood/blob/main/python/desafioCodigo2_preco_final.py">desafioCodigo2_preco_final.py</a> |
 | Ganhe uma Sobremesa Especial! | Desafio de código | <a href = "https://github.com/lilandracunha/dio-bootcamp-ifood/blob/main/python/desafioCodigo3_sobremesa_especial.py">desafioCodigo3_sobremesa_especial.py</a> |
