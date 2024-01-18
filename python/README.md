@@ -1,8 +1,7 @@
 ## Dominando o Python Para Ciência de Dados
 
 <br>
-<p align = "justify">O módulo Dominando o Python Para Ciência de Dados integra o bootcamp Potência Tech powered by iFood, disponibilizado através da plataforma Digital Innovation One (DIO).
-<p align = "justify"> Para este módulo são propostos cinco desafios de código e dois desafios de projeto. A seguir estão descritos os detalhes de cada um deles:
+<p align = "justify">Durante o bootcamp Potência Tech powered by iFood - Ciências de Dados com Python, disponibilizado através da plataforma Digital Innovation One (DIO), são propostos cinco desafios de código e dois desafios de projeto. A seguir estão descritos os detalhes de cada um deles:
 <br><br> 
 
 ### Desafios de Código
